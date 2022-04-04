@@ -1,7 +1,7 @@
 #Inna Kuzmich
 ------
 ##Contact information
-* **Location:** Brest, Belarus
+* **Location:** Brest,Belarus
 * **Phone:** +37529 828-41-73
 * **Email:** <innashen@gmail.com>
 * **Telegram:** @inashen
