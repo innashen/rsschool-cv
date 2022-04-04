@@ -7,7 +7,7 @@
 * **Telegram:** @inashen
 ------
 ##About Me
-I'm responsible, I like working and communicate well with people
+I'm responsible, I like working and communicate well with people!
 
 ------
 ##Skills
