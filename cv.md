@@ -34,4 +34,4 @@ function multiply(a, b){
 ------
 ##Languages
 * Russian - native speaker
-* English - B1(Intermediate)
+* English - B1+(Intermediate)
